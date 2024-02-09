@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author srini
+ *
+ */
+module MyFirstJavaProject {
+}
